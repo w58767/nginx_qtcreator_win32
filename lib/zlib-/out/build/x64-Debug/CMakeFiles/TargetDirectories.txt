@@ -1,0 +1,10 @@
+H:/vs_project/ngnix_vs/nginx-visualstudio/lib/zlib/out/build/x64-Debug/CMakeFiles/zlib.dir
+H:/vs_project/ngnix_vs/nginx-visualstudio/lib/zlib/out/build/x64-Debug/CMakeFiles/zlibstatic.dir
+H:/vs_project/ngnix_vs/nginx-visualstudio/lib/zlib/out/build/x64-Debug/CMakeFiles/example.dir
+H:/vs_project/ngnix_vs/nginx-visualstudio/lib/zlib/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+H:/vs_project/ngnix_vs/nginx-visualstudio/lib/zlib/out/build/x64-Debug/CMakeFiles/minigzip.dir
+H:/vs_project/ngnix_vs/nginx-visualstudio/lib/zlib/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+H:/vs_project/ngnix_vs/nginx-visualstudio/lib/zlib/out/build/x64-Debug/CMakeFiles/test.dir
+H:/vs_project/ngnix_vs/nginx-visualstudio/lib/zlib/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+H:/vs_project/ngnix_vs/nginx-visualstudio/lib/zlib/out/build/x64-Debug/CMakeFiles/install/local.dir
+H:/vs_project/ngnix_vs/nginx-visualstudio/lib/zlib/out/build/x64-Debug/CMakeFiles/install.dir

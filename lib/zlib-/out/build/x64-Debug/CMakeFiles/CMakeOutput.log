@@ -1,0 +1,57 @@
+The system is: Windows - 6.1.7601 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30037/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.29.30038.1 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.29.30038.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "H:/vs_project/ngnix_vs/nginx-visualstudio/lib/zlib/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/zlib/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_addab && [1/2] Building C object CMakeFiles\cmTC_addab.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_addab.exe
+
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/zlib/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_14860 && [1/2] Building C object CMakeFiles\cmTC_14860.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_14860.exe
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/zlib/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_7922e && [1/2] Building C object CMakeFiles\cmTC_7922e.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_7922e.exe
+
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/zlib/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_baf95 && [1/2] Building C object CMakeFiles\cmTC_baf95.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_baf95.exe
+
+
+

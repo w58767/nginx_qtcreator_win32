@@ -1,0 +1,161 @@
+The system is: Windows - 6.1.7601 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30037/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.29.30038.1 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.29.30038.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30037/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.29.30038.1 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.29.30038.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_056b5 && [1/2] Building C object CMakeFiles\cmTC_056b5.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_056b5.exe
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_89b51 && [1/2] Building CXX object CMakeFiles\cmTC_89b51.dir\CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_89b51.exe
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_433c7 && [1/2] Building C object CMakeFiles\cmTC_433c7.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_433c7.exe
+
+
+
+Determining if the include file inttypes.h exists passed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_5c369 && [1/2] Building C object CMakeFiles\cmTC_5c369.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_5c369.exe
+
+
+
+Determining if the include file sys/stat.h exists passed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_04a1a && [1/2] Building C object CMakeFiles\cmTC_04a1a.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_04a1a.exe
+
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_27b86 && [1/2] Building C object CMakeFiles\cmTC_27b86.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_27b86.exe
+
+
+
+Determining if the include file windows.h exists passed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_4ad67 && [1/2] Building C object CMakeFiles\cmTC_4ad67.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_4ad67.exe
+
+
+
+Determining if the function memmove exists passed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_0f99d && [1/2] Building C object CMakeFiles\cmTC_0f99d.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_0f99d.exe
+
+
+
+Determining if the function strerror exists passed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_f8edb && [1/2] Building C object CMakeFiles\cmTC_f8edb.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_f8edb.exe
+
+
+
+Determining if the function strtoll exists passed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_bd036 && [1/2] Building C object CMakeFiles\cmTC_bd036.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_bd036.exe
+
+
+
+Determining if the function _strtoi64 exists passed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_ea407 && [1/2] Building C object CMakeFiles\cmTC_ea407.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_ea407.exe
+
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_3bc78 && [1/2] Building C object CMakeFiles\cmTC_3bc78.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_3bc78.exe
+
+
+
+Determining size of long long passed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_28113 && [1/2] Building C object CMakeFiles\cmTC_28113.dir\LONG_LONG.c.obj
+[2/2] Linking C executable cmTC_28113.exe
+
+
+
+Determining size of unsigned long long passed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_4521c && [1/2] Building C object CMakeFiles\cmTC_4521c.dir\UNSIGNED_LONG_LONG.c.obj
+[2/2] Linking C executable cmTC_4521c.exe
+
+
+

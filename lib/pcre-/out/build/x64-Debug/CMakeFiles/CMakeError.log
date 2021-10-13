@@ -1,0 +1,72 @@
+Determining if the include file dirent.h exists failed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_cd14b && [1/2] Building C object CMakeFiles\cmTC_cd14b.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_cd14b.dir/CheckIncludeFile.c.obj 
+G:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_cd14b.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_cd14b.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “dirent.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file unistd.h exists failed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_074ac && [1/2] Building C object CMakeFiles\cmTC_074ac.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_074ac.dir/CheckIncludeFile.c.obj 
+G:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_074ac.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_074ac.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file type_traits.h exists failed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_83084 && [1/2] Building CXX object CMakeFiles\cmTC_83084.dir\CheckIncludeFile.cxx.obj
+FAILED: CMakeFiles/cmTC_83084.dir/CheckIncludeFile.cxx.obj 
+G:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx64\x64\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_83084.dir\CheckIncludeFile.cxx.obj /FdCMakeFiles\cmTC_83084.dir\ /FS -c CheckIncludeFile.cxx
+CheckIncludeFile.cxx(1): fatal error C1083: 无法打开包括文件: “type_traits.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file bits/type_traits.h exists failed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_6859c && [1/2] Building CXX object CMakeFiles\cmTC_6859c.dir\CheckIncludeFile.cxx.obj
+FAILED: CMakeFiles/cmTC_6859c.dir/CheckIncludeFile.cxx.obj 
+G:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx64\x64\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_6859c.dir\CheckIncludeFile.cxx.obj /FdCMakeFiles\cmTC_6859c.dir\ /FS -c CheckIncludeFile.cxx
+CheckIncludeFile.cxx(1): fatal error C1083: 无法打开包括文件: “bits/type_traits.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function bcopy exists failed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_1caf9 && [1/2] Building C object CMakeFiles\cmTC_1caf9.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_1caf9.exe
+FAILED: cmTC_1caf9.exe 
+cmd.exe /C "cd . && "G:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_1caf9.dir --rc=G:\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=G:\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- G:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_1caf9.dir\CheckFunctionExists.c.obj  /out:cmTC_1caf9.exe /implib:cmTC_1caf9.lib /pdb:cmTC_1caf9.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "G:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_1caf9.dir\CheckFunctionExists.c.obj /out:cmTC_1caf9.exe /implib:cmTC_1caf9.lib /pdb:cmTC_1caf9.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_1caf9.dir/intermediate.manifest CMakeFiles\cmTC_1caf9.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: 无法解析的外部符号 bcopy，函数 main 中引用了该符号
+cmTC_1caf9.exe : fatal error LNK1120: 1 个无法解析的外部命令
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function strtoq exists failed with the following output:
+Change Dir: H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):G:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a525e && [1/2] Building C object CMakeFiles\cmTC_a525e.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_a525e.exe
+FAILED: cmTC_a525e.exe 
+cmd.exe /C "cd . && "G:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_a525e.dir --rc=G:\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=G:\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- G:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_a525e.dir\CheckFunctionExists.c.obj  /out:cmTC_a525e.exe /implib:cmTC_a525e.lib /pdb:cmTC_a525e.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "G:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_a525e.dir\CheckFunctionExists.c.obj /out:cmTC_a525e.exe /implib:cmTC_a525e.lib /pdb:cmTC_a525e.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_a525e.dir/intermediate.manifest CMakeFiles\cmTC_a525e.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: 无法解析的外部符号 strtoq，函数 main 中引用了该符号
+cmTC_a525e.exe : fatal error LNK1120: 1 个无法解析的外部命令
+ninja: build stopped: subcommand failed.
+
+
+

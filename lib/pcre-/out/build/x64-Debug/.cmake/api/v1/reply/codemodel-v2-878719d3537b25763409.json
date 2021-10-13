@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PCRE",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "pcre::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcre-Debug-b9bbef2a8f2cdda5fbcf.json",
+					"name" : "pcre",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcre_scanner_unittest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcre_scanner_unittest-Debug-31f2332633a466579b2b.json",
+					"name" : "pcre_scanner_unittest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcre_stringpiece_unittest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcre_stringpiece_unittest-Debug-350b1a2b4a0ece78b962.json",
+					"name" : "pcre_stringpiece_unittest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcrecpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcrecpp-Debug-5f4c8c6db87d51b26581.json",
+					"name" : "pcrecpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcrecpp_unittest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcrecpp_unittest-Debug-9a96f8ce0e989f8771a0.json",
+					"name" : "pcrecpp_unittest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcregrep::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcregrep-Debug-3c2576f5194536d491ee.json",
+					"name" : "pcregrep",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcreposix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcreposix-Debug-8ccdee6467d82879e9bd.json",
+					"name" : "pcreposix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcretest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcretest-Debug-827f27eb61c615b36495.json",
+					"name" : "pcretest",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre/out/build/x64-Debug",
+		"source" : "H:/vs_project/ngnix_vs/nginx-visualstudio/lib/pcre"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
